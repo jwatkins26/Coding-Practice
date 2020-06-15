@@ -5,7 +5,7 @@ using static System.Console;
     {
         static void Main()
         {
-            Write("\nPlease enter a temperature in farhenheit.>>> ");
+            Write("\nPlease enter a temperature in farhenheit >>> ");
             int farhenheit = Convert.ToInt32(ReadLine());
             double celsius = (farhenheit - 32) / 1.8;
 
