@@ -1,2 +1,2 @@
 # Coding-Practice
-Coding excersises in C#
+Coding exercises in C#
